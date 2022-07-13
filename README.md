@@ -3,7 +3,7 @@
 
 Implementation of "Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips", accepted to ECCV2022.
 
-<img src="https://github.com/jiawangbai/HPT/blob/main/misc/pipeline.png" width="200" height="100"/><br/>
+<img src="https://github.com/jiawangbai/HPT/blob/main/misc/pipeline.png" width="800" height="400"/><br/>
 
 # Usage
 First, set the data path in "config.json"
