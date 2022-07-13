@@ -1,6 +1,3 @@
-# HPT
-Implementation of our ECCV2022 work - HPT 
-
 
 # Hardly Perceptible Trojan Attack (HPT)
 
